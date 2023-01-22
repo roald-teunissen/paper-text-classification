@@ -83,6 +83,11 @@ Project Organization
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Acknowledgements
+
+* [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+* [NLP-text-classification-model by vijayaiitk](https://github.com/vijayaiitk/NLP-text-classification-model)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
